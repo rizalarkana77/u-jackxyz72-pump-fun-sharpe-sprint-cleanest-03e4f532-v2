@@ -1,8 +1,8 @@
 # Sharpe Sprint — Cleanest Paper Bot
 
 [![make.fun](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?ref=9f4fsyjb)
-[![Rank](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/rizalarkana77/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/rank.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?ref=9f4fsyjb)
-[![Reward](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/rizalarkana77/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/reward.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?ref=9f4fsyjb)
+[![Rank](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/rizalarkana77/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532-v2/rank.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?ref=9f4fsyjb)
+[![Reward](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/rizalarkana77/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532-v2/reward.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?ref=9f4fsyjb)
 
 A paper-money trading bot for the [make.fun](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?ref=9f4fsyjb) competition **Pump.fun Sharpe Sprint — Cleanest Paper Bot Wins** ($2, top 3 share it). The bot trades recorded pump.fun bonding curves in a 6-hour forward replay — no live trading, no real funds. Starting balance 10 SOL; ranking is **hourly Sharpe ratio**, and a prize needs net PnL above holding cash (above 0 after every fee).
 
